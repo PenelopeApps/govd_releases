@@ -3,12 +3,12 @@
     <channel>
         <title>GOVD</title>
         <item>
-            <title>26.5</title>
-            <pubDate>Tue, 03 Feb 2026 16:26:55 -0600</pubDate>
-            <sparkle:version>260203004</sparkle:version>
-            <sparkle:shortVersionString>26.5</sparkle:shortVersionString>
+            <title>26.6</title>
+            <pubDate>Wed, 04 Feb 2026 13:08:06 -0600</pubDate>
+            <sparkle:version>260204001</sparkle:version>
+            <sparkle:shortVersionString>26.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/PenelopeApps/govd_releases/releases/download/v26.5/GOVD.26.5.dmg" length="106811967" type="application/octet-stream" sparkle:edSignature="gzrMPAqyVNXaPiUySiagQn+hi2N/PmByO0Lv2x2l0bkyZba70TXEqZ9IE5HzzorvLK8tuC7tnH0mIyvw3v9QBg=="/>
+            <enclosure url="https://github.com/PenelopeApps/govd_releases/releases/download/v26.6/GOVD.26.6.dmg" length="106745502" type="application/octet-stream" sparkle:edSignature="W1rjIzkHAthVXreQhgo2+GkKgKQv8yyaOMPz/06H8mkhtu3hPTv1bq+NmY2Oy+Xl6qpph6hlb7hPJd2/gxSSAw=="/>
         </item>
     </channel>
 </rss>
