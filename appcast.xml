@@ -1,14 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>GOVD 26.8</title>
+        <title>GOVD 26.9</title>
         <item>
-            <title>26.8</title>
-            <pubDate>Thu, 12 Feb 2026 11:22:34 -0600</pubDate>
-            <sparkle:version>260212001</sparkle:version>
-            <sparkle:shortVersionString>26.8</sparkle:shortVersionString>
+            <title>26.9</title>
+            <pubDate>Mon, 23 Feb 2026 10:03:40 -0600</pubDate>
+            <sparkle:version>260223001</sparkle:version>
+            <sparkle:shortVersionString>26.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/PenelopeApps/govd_releases/releases/download/v26.8/GOVD.26.8.dmg" length="106945496" type="application/octet-stream" sparkle:edSignature="EmMftkSEmMP4fwMGtclpejuPzSLzh5u3tXtGop4sGSaPuTxYXWZ4IsU08bf32W8CpHrBsCSKKhtmmN4JCx2pBw=="/>
+            <enclosure url="https://github.com/PenelopeApps/govd_releases/releases/download/v26.9/GOVD.26.9.dmg" length="107348655" type="application/octet-stream" sparkle:edSignature="vaL3IrVY6QsCFbgqI77Mb21BWoGCdpbDW8F/4/MS66ljc78Kn8s2NVIrrZri0h9c2VW4gdrYrsVGJzpJGdKCCw=="/>
         </item>
     </channel>
 </rss>
